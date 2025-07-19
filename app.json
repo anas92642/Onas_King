@@ -1,0 +1,82 @@
+{
+  "name": "『ᴀͥ͢ɴᷧᴀ᪵ͫs✨",
+  "description": "『ᴀͥ͢ɴᷧᴀ᪵ͫs✨, your day to day assistant!",
+  "logo": "https://files.catbox.moe/ia1mgm.jpg",
+  "keywords": [],
+  "repository": "https://github.com/anas92642/Onas_King",
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+"env": {
+  "SESSION_ID": {
+    "CYPHER-X:~UEsDBBQAAAgIALF281pXM3B4VAQAAHEHAAAKAAAAY3JlZHMuanNvbpVU25KiSBD9l3rVGLnJLaIjFgEV8W6jyMY+lFBIKfcqEJzw3zfQ6el52J3t5anIysg8ec7J+g7SDBNkoxao30Fe4hpS1B1pmyOgglEVhqgEfRBACoEKjjPc7DDnJr4iLXV0M61S36ScwKNmvNge66QhwtjcnZeO8wYefZBXpxj7vyk4cew5VvJm4Lo1cW*rqpCxUFbhimkvh7A1kdYjxobR7VH2Bh5dRYhLnJ7NPEIJKmFso3YNcfk1+IKepfNMmOTpUSjkKGz3tZsouzkz5EY8e6i2jKN5jBea*PFr8AObjOlqIRdS05h7Xc*3jFUcVhQySRVxZjktxpk0VSa1u3jBJ*icosAKUEoxbb*MezGDyLsKzaYHh+0YZlHKubuBYK2Ga3*NJvxKnm+H2t0q09vXgC+2d0QOG7SO*Pnx1pLIZyo2a8VCQAfbdU0n9hXrBMPR3f8V+Lr88Mr1**DOaYujZzrnJWEZsjpW0aD25MtuVslj7xDLS9S7CJndYyZX+Wvw0eoUuvI2X2V7vG1uPc5dXofFoceeDee2b+aoNVtjZg2uhvAJH9Kq*B1KVBuFML5hufZvvrhkrAFc59Wg4c69U8LezQ0SlP1sDSshmx+HhZdtC8G5+O+ySBnDSU5VUPJ2Gr+T3D7X3Ht25kbJ5fb2nOiKWisAKvvogxKdMaElpDhLuxjHiH0Ag3qH*BLRJ73A23lNIFA+zTW05BeVXiC7xWtZ2UpNvJNker1wNZPJg+vmDfRBXmY+IgQFU0xoVrYLRAg8IwLUP**qgxQ19CVc145n+yDEJaFOWuVxBoMPVT8uoe9nVUp3berr3QGVQGU+w4hSnJ5Jx2OVwtKPcI30CFIC1BDGBP2cEJUoACotK*Rza*Us6Ig3tt54Ye*3oA+SpyA4ACpQOJ4X2eGQk3hFFZg*yLdbVxbm+bcUUdAH8TNN5lmel4eipHASI3WJXfzxE2BXL0AU4pgAFejzyroW5sRc1Vgii8lEM8+aftbA50AfzngxH9vCJpGWCTetJdGpGGr7OjuMCrHghuUyvCAn9RYTsnIM8vYPRYAK2ORiBsJGMbxBYV1nUmAsnenwOl*fpVDcFbxhLNEq2XPXtQmniTwfOvF7lE03Rm+5PomHhesz1GBpPamzu+ayI*uunDTtresWoBr76NdmnNjEtykeD3RkNXNRmFYWy+rCKRSx3a5HohnR+CSuULDbG2mTL7QtapXEw3Bpz++DXlxy*MzexkfuMEDOaMq6zMKOtJdnnzsT*3ir8NNNnVTdb4jRc*VT2An439K9gHcOYx79X2r8eEz+ZSFH3q4yZ9Xdo5HU68VzOt+lGkVHWBW0gndX4OMZ9z4qjViTwOPxVx*kMaRhViZABTANygwHoA*KrOosa6Vh9ptm+siyRpvX5DEkVPtcg3ecIEJhkgOVlYacwosyK7yy1mWWTyGJgAr4reLxSufpVsvzHYX0Y6uA1n2zhQEefwNQSwECFAMUAAAICACxdvNaVzNweFQEAABxBwAACgAAAAAAAAAAAAAApIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAAB8BAAAAAA=": "Must begin with '『ᴀͥ͢ɴᷧᴀ᪵ͫs✨:~'.",
+    "value": "",
+    "required": false
+  },
+  "BOT_ADMIN": {
+    "description": "+923074499097",
+    "value": "254712345678",
+    "required": true
+  },
+  "GITHUB_USERNAME": {
+    "description": "anas92642",
+    "value": "",
+    "required": false
+  },
+   "BOT_PASSWORD": {
+    "description": "This will be used as auth code for others who'll connect using the app web",
+    "value": "12345678",
+    "required": false
+  },
+   "PREMIUM_KEY": {
+    "description": "If you purchased a premium membership, enter the key you received here otherwise leave blank",
+    "value": "",
+    "required": false
+  },
+  "MAX_SESSIONS": {
+    "description": "If you purchased a premium membership, enter the session limit you received here otherwise leave blank.",
+    "value": "",
+    "required": false
+  },
+   "EXPIRY": {
+    "description": "If you purchased a premium membership, enter the expiry date you received here otherwise leave blank",
+    "value": "",
+    "required": false
+  },
+    "ANTI_DELETE": {
+    "description": "Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)",
+    "value": "",
+    "required": false
+  },
+    "ADMIN_PASSWORD": {
+    "description": "This will be used as a password for gaining administrative access to the bot",
+    "value": "11223344",
+    "required": false
+  }, 
+    "TELEGRAM_BOT_TOKEN": {
+    "description": "7995770027:AAFneHqKY4EEo42a-pBcH3Bnkioc20x0AIw",
+    "value": "",
+    "required": false
+  }
+},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
