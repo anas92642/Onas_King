@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
+    <img alt="SPACE-MD docs" height="350" src="https://i.ibb.co/LXN15CgN/Photoleap-10-07-2025-22-04-36-u-PBDp.jpg">
   </a>
 </p>
     
